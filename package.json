@@ -1,0 +1,9 @@
+{
+  "name": "discord-bot-notifying-about-twitch",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "author": "Idaret",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
