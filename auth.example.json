@@ -1,7 +1,7 @@
 {
     "tokenDiscordBot": "",
-    "twitchClientID": "",
-    "twitchChannelID" : "",
+    "twitchClientID": "nlu47iqlz2oremlflx7x3l9b94xhli",
+    "twitchChannelName" : "",
     "discordChannelID" : "",
     "refreshTime" : 6000
 }
